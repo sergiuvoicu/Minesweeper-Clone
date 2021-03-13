@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+C:\Users\Mormoloque\Documents\POO\Minesweeper\Minesweeper\x64\Debug\Minesweeper.exe : fatal error LNK1120: 1 unresolved externals

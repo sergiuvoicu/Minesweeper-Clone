@@ -1,0 +1,18 @@
+﻿  Frame.cpp
+c:\users\mormoloque\documents\poo\minesweeper\minesweeper\minesweeper\frame.cpp(23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mormoloque\documents\poo\minesweeper\minesweeper\minesweeper\frame.cpp(29): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Source.cpp
+  Generating code
+  4 of 117 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Minesweeper.vcxproj -> C:\Users\Mormoloque\Documents\POO\Minesweeper\Minesweeper\x64\Release\Minesweeper.exe
